@@ -1,0 +1,16 @@
+com.example.hotel_system_app-jetified-window-1.0.0-beta04-0 /Users/3ando/.gradle/caches/transforms-3/7dd2abffb06983c6e1a876be4cdec245/transformed/jetified-window-1.0.0-beta04/res
+com.example.hotel_system_app-jetified-window-java-1.0.0-beta04-1 /Users/3ando/.gradle/caches/transforms-3/b91ae98530bfe8b2633372e6dd034bb5/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.hotel_system_app-core-1.6.0-2 /Users/3ando/.gradle/caches/transforms-3/cabe89151370360151c34113a65b5bdc/transformed/core-1.6.0/res
+com.example.hotel_system_app-jetified-annotation-experimental-1.1.0-3 /Users/3ando/.gradle/caches/transforms-3/ee8546d7b17e3bb66b8497583bb88b4f/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.hotel_system_app-debug-4 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/android/app/src/debug/res
+com.example.hotel_system_app-main-5 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/android/app/src/main/res
+com.example.hotel_system_app-pngs-6 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/generated/res/pngs/debug
+com.example.hotel_system_app-resValues-7 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/generated/res/resValues/debug
+com.example.hotel_system_app-rs-8 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/generated/res/rs/debug
+com.example.hotel_system_app-mergeDebugResources-9 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.hotel_system_app-mergeDebugResources-10 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.hotel_system_app-merged_res-11 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/intermediates/merged_res/debug
+com.example.hotel_system_app-packaged_res-12 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/file_picker/intermediates/packaged_res/debug
+com.example.hotel_system_app-packaged_res-13 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.hotel_system_app-packaged_res-14 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/shared_preferences_android/intermediates/packaged_res/debug
+com.example.hotel_system_app-packaged_res-15 /Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/sqflite/intermediates/packaged_res/debug

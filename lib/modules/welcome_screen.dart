@@ -32,7 +32,7 @@ class WelcomeScreen extends StatelessWidget {
               Container(
                 height: double.infinity,
                 width: double.infinity,
-                color: Colors.black.withOpacity(0.4),
+                color: Colors.black.withOpacity(0.5),
               ),
               Padding(
                 padding: const EdgeInsets.only(left: 40.0),
@@ -86,16 +86,11 @@ class WelcomeScreen extends StatelessWidget {
                             }
                             CacheHelper.saveData(key: 'welcome', value: true);
 
-                            // Navigator.pushAndRemoveUntil(
-                            //     context,
-                            //     MaterialPageRoute(
-                            //         builder: (context) => LocationScreen()),
-                            //     (route) => false);
-                            if(CacheHelper.getData(key: 'auth')==null){Navigator.push(context, MaterialPageRoute(builder: (context)=> RegisterScreen(rooms)));
-                            }else
-                            {
-                              Navigator.push(context, MaterialPageRoute(builder: (context)=> LocationScreen()));
-                            }
+                            Navigator.pushAndRemoveUntil(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => LocationScreen()),
+                                (route) => false);
                           },
                           child: const Text(
                             'Book Now',

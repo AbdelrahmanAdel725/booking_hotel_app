@@ -13,6 +13,12 @@ uses-sdk
 INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
 INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml
 		ADDED from /Users/3ando/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android/src/main/AndroidManifest.xml

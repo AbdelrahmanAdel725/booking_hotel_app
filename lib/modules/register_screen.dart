@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hotel_system_app/modules/location_screen.dart';
+import 'package:hotel_system_app/modules/report_screen.dart';
 import 'package:hotel_system_app/shared/network/cache_helper.dart';
 import 'package:hotel_system_app/layout/states.dart';
 
@@ -105,7 +106,7 @@ class RegisterScreen extends StatelessWidget {
                             Navigator.pushAndRemoveUntil(
                                 context,
                                 MaterialPageRoute(
-                                    builder: (contxet) => LocationScreen()),
+                                    builder: (contxet) => ReportScreen(rooms)),
                                 (route) => false);
                           }else{}},
                         ),

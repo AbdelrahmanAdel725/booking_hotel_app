@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "com.example.hotel_system_app-mergeDebugResources-9:/values-ca/values-ca.xml",
             "map": [
                 {
-                    "source": "/Users/3ando/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/values-ca/values-ca.xml",
+                    "source": "/Users/3ando/.gradle/caches/transforms-3/cabe89151370360151c34113a65b5bdc/transformed/core-1.6.0/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

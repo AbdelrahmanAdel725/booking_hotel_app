@@ -31,42 +31,49 @@ class ReportScreen extends StatelessWidget {
           ),
           body: Padding(
             padding: const EdgeInsets.all(8.0),
-            child: ListView.separated(
-                itemBuilder: (context, index) {
-                  return Row(
-                    children: [
-                      Expanded(
-                        child: Text(
-                          'Room ${rooms[index]['id']}',
-                          style: const TextStyle(
-                            fontSize: 18.0,
-                            fontWeight: FontWeight.bold,
+            child: Padding(
+              padding: const EdgeInsets.all(20.0),
+              child: ListView.separated(
+                padding: EdgeInsets.only(top: 260),
+                  itemBuilder: (context, index) {
+                    return Row(
+                      children: [
+                        Expanded(
+                          child: Text(
+                            'Room ${rooms[index]['id']}:',
+                            style: const TextStyle(
+                              fontSize: 24.0,
+                              fontWeight: FontWeight.bold,
+                            ),
                           ),
                         ),
-                      ),
-                      Expanded(
-                        child: Text(
-                          rooms[index]['category'],
-                          style: const TextStyle(
-                            fontSize: 18.0,
+                        SizedBox(
+                          height: 10,
+                        ),
+                        Expanded(
+                          child: Text(
+                            rooms[index]['category'],
+                            style: const TextStyle(
+                              fontSize: 24.0,
+                            ),
                           ),
                         ),
-                      ),
-                      Expanded(
-                        child: Text(
-                          rooms[index]['booked'],
-                          style: const TextStyle(
-                            fontSize: 18.0,
+                        Expanded(
+                          child: Text(
+                            rooms[index]['booked'],
+                            style: const TextStyle(
+                              fontSize: 24.0,
+                            ),
                           ),
                         ),
-                      ),
-                    ],
-                  );
-                },
-                separatorBuilder: (contxet, index)=> const SizedBox(
-                  height: 10.0,
-                ),
-                itemCount: rooms.length,
+                      ],
+                    );
+                  },
+                  separatorBuilder: (contxet, index)=> const SizedBox(
+                    height: 30.0,
+                  ),
+                  itemCount: rooms.length,
+              ),
             ),
           ),
         );
