@@ -153,19 +153,6 @@ class AppCubit extends Cubit<AppStates> {
     });
   }
 
-  void updateDataImage({
-    required String image,
-    required int id,
-     }) async {
-    // emit(DbLoading());
-    await database!.rawUpdate(
-        'UPDATE hotel SET image = ?  WHERE category = ?',
-        ['https://galeriemagazine.com/wp-content/uploads/2019/03/243f89e0-8235-11e7-a767-bc310e55dd10_1320x770_154749-1024x597.jpg',6]).then((value) {
-      emit(AppDatabaseUpdateSuccess());
-      getFromDatabase(database);
-    });
-  }
-
   Future UpdatePrice({
     required double price,
     required int id,
