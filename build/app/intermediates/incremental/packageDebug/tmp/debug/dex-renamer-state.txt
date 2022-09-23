@@ -1,0 +1,4 @@
+#Fri Sep 23 06:07:45 EET 2022
+base.0=/Users/3ando/Downloads/Assessment assignment Mobile App Developer/Hotel system app/hotel_system_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
