@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hotel_system_app/layout/states.dart';
 import 'package:hotel_system_app/modules/location_screen.dart';
-import 'package:hotel_system_app/utils/bloc_observer.dart';
+import 'package:hotel_system_app/shared/bloc_observer.dart';
 
 import 'layout/cubit.dart';
 import 'modules/welcome_screen.dart';
